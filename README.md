@@ -1,1 +1,1 @@
-# WKUstore
+# WKUStore
